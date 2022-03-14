@@ -1,5 +1,5 @@
 import re
-#program read text file and create key words with their lines numbers
+#program read text file and create key words with theirs lines numbers in new file keywords.txt
 
 def main():
     #creating list to store lines of text in file
